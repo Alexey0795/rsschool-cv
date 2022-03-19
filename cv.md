@@ -1,7 +1,7 @@
 # Aliaksei Pauliuchyk
-- discord: [alx (@Alexey0795)](https://discord.com/users/Alexy796#9678) 
-- github: https://github.com/Alexey0795
-- telegram: https://t.me/alx795
+- Discord: [alx (@Alexey0795)](https://discord.com/users/Alexy796#9678) 
+- GitHub: [@Alexey0795](https://github.com/Alexey0795)
+- Telegram: [t.me/alx795](https://t.me/alx795)
 
 ### About Me
 
@@ -11,7 +11,7 @@
 - SOLID, gof patterns
 - GitHub, GitLab
 - python, js
-- vs code, visual studio, pycharm
+- vs code, Visual Studio, PyCharm
 - mongoDB, MySql
 - Docker
 
